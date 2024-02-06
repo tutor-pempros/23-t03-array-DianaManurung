@@ -1,4 +1,4 @@
-// NIM - NAMA
+// 12S23040_Diana Hevila Manurung
 
 #include <stdio.h>
 
