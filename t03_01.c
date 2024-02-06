@@ -5,7 +5,6 @@
 int main(){
     int Angka[100], min, max, n;
 
-    printf("Masukkan 9 angka antara -100 dan 100:\n");
     for(int i = 0; i < 9; i++){
         scanf("%d", &n);
         // Check if the number is between -100 and 100
