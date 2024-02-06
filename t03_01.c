@@ -26,8 +26,8 @@ int main(){
     }
 
     // Print the min and max
-    printf("Nilai terkecil: %d\n", min);
-    printf("Nilai terbesar: %d\n", max);
+    printf("%d\n", min);
+    printf("%d\n", max);
 
     return 0;
 }
